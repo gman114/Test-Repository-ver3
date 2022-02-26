@@ -1,5 +1,5 @@
-#ifndef ADDSUBTRACT_H
-#define ADDSUBTRACT_H
+#ifndef POWLOG_H
+#define POWLOG_H
 
 int power(int base, int pow);
 

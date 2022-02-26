@@ -1,5 +1,5 @@
-#ifndef ADDSUBTRACT_H
-#define ADDSUBTRACT_H
+#ifndef MULTDIV_H
+#define MULTDIV_H
 
 int multiply(int x, int y);
 

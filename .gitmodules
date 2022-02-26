@@ -1,3 +1,4 @@
 [submodule "Prototype-Update-Script"]
 	path = Prototype-Update-Script
 	url = https://github.com/gman114/Prototype-Update-Script.git
+	branch = stable
